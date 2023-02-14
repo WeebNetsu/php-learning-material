@@ -1,8 +1,8 @@
 <?php
-	$mystr = "My name is [not] Netsu [Get it?].";
-	echo "Before: $mystr <br>";
+$mystr = "My name is [not] Netsu [Get it?].";
+echo "Before: $mystr <br>";
 
-	$newStr = strtr($mystr, "[n]", "(y)"); //replaces [ & n & ] with ( & y & )
+$newStr = strtr($mystr, "[n]", "(y)"); //replaces [ & n & ] with ( & y & )
 
-	echo "After: $newStr<br>";
+echo "After: $newStr<br>";
 ?>

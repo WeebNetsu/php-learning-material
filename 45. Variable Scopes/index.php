@@ -6,15 +6,14 @@ neither can you declare a variable inside a function and use it outside a functi
 */
 
 $name = 'David';
-// the "true" allows me to get CONST by typing const instead
-define("TALK", ' says,"Hello world!"', true);
+define("TALK", ' says,"Hello world!"');
 
 function getName()
 {
     // This below code allows us to use a variable from outside the function
     global $name;
 
-    echo $name . talk;
+    echo $name . TALK;
 }
 
 getName();
