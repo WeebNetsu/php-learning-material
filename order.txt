@@ -1,6 +1,6 @@
-Setting up and running PHP (Windows/Mac/Linux) + 1. First PHP
-2. Echo + 0.Extra + 3. Comments
-4. Variables and Data Types (ignore Variable Scopes.php)
+Setting up and running PHP (Windows/Mac/Linux) + 1. Hello World
+2. Echo + 3. Comments
+4. Variables and Data Types
 12. Type Casting
 5. Math + 37. Formatting numbers
 16. String Functions + 18. Strings and Escape Characters + 27. String Manipulation + 36. Upper and Lowercase
@@ -9,7 +9,7 @@ Setting up and running PHP (Windows/Mac/Linux) + 1. First PHP
 7. Arrays
 9. Loops + 8. Statements/continue-statement.php
 11. Functions [math]
-4. Variable and Data Types/Variable Scopes.php + 30. Global Variables [functions] + 29. Receive Errors
+45. Variable Scopes + 30. Global Variables [functions] + 29. Receive Errors
 19. Try...Catch
 23. Writing to a file + 24. Read from a file + 43. Deleting Files from Folders
 31. die() and exit() [working with files]
