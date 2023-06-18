@@ -6,14 +6,14 @@ Setting up and running PHP (Windows/Mac/Linux) + 1. Hello World
 18. Strings Basics
 16. String Manipulation
 27. String Formatting
-6. Conditions + 8. Statements/if-statement.php + 13. What is False
-8. Statements/switch-statement.php
+6. If statements
+13. Switch statement
 7. Arrays
-9. Loops + 8. Statements/continue-statement.php
+9. Loops
 11. Functions [math]
 36. Variable Scopes + 30. Global Variables [functions] + 29. Receive Errors
 19. Try...Catch
-23. Writing to a file + 24. Read from a file + 43. Deleting Files from Folders
+23. Writing to a file + 24. Read from a file + 8. Deleting Files from Folders
 31. die() and exit() [working with files]
 26. OOP [functions]
 10. Include & Require
