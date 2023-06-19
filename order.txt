@@ -12,8 +12,8 @@ Setting up and running PHP (Windows/Mac/Linux) + 1. Hello World
 9. Loops [if statement]
 11. Functions [math]
 36. Variable Scopes [functions]
-19. Try...Catch
-23. Writing to a file + 24. Read from a file + 8. Deleting Files from Folders
+19. Error Handling [functions]
+23. Writing to a file + 24. Read from a file + 8. Deleting Files from Folders [functions, loops]
 31. die() and exit() [working with files]
 26. OOP [functions]
 10. Include & Require
