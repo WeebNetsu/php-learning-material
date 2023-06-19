@@ -1,6 +1,6 @@
 # PHP Learning Material
 
-These are all the lessons I created when learning PHP, they became my PHP course.
+These are all the lessons I created when learning PHP, they became my PHP course. The official order for the lessons can be found inside of **order.txt**.
 
 <!-- Watch the crash course:
 

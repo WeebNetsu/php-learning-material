@@ -1,33 +1,39 @@
 <?php
-	// functions are made just like in JS
-	// functions are not case sensative
+function helloWorld()
+{
+    echo "Hello World!<br>";
+}
 
-	function helloWorld(){
-		echo "Hello World!<br>";
-	} 
+helloworld(); // functions are not case sensitive
 
-	helloworld();
+// passing in parameters
+function multiply($num1, $num2)
+{
+    $answer = $num1 * $num2;
 
-	function multiply($num1, $num2){ //they can also use parameters
-		$answer = $num1 * $num2;
+    echo $answer;
+}
 
-		echo $answer;
-	}
+multiply(2, 5);
 
-	multiply(2, 5);
+// giving parameters default values
+function sayHello($name = 'John')
+{
+    echo "<br>Hello " . $name;
+}
 
-	function sayHello($name = 'John'){ //default parameter
-		echo "<br>Hello " . $name;
-	}
+sayHello('Josh');
+sayHello();
 
-	sayHello('Josh');
-	sayHello();
+// returning a value from a function
+function result($num1, $num2)
+{
+    echo "<br>";
 
-	function result($num1, $num2){
-		echo "<br>";
+    return $num1 / $num2; //you can also use return
+}
 
-		return $num1 / $num2; //you can also use return
-	}
-
-	echo result(20, 5);
+// you can now store the value in an array to use later
+$res = result(20, 5);
+echo $res;
 ?>
