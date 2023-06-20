@@ -17,9 +17,8 @@ Setting up and running PHP (Windows/Mac/Linux) + 1. Hello World
 31. die() and exit() [working with files]
 26. OOP [functions]
 10. Include & Require
-14. GET & POST
-21. Getting user input + 25. Checkboxes
+21. Getting user input [for loops]
 29. Uploading files [if statements, arrays, GET & POST, user input]
-15. Sessions + 32. Unset and Destroy Sessions + 39. Holding Sessions
-20. Cookies + 38. Sessions and Cookies
+15. Sessions + 32. Unset and Destroy Sessions + 14. Holding Sessions
+20. Cookies + 25. Sessions and Cookies
 33. Connecting to a MySQL database + 34. Getting data from database + 22. Protect Database from SQL injections + 30. Prepared Statements [loops, if statements, require]
