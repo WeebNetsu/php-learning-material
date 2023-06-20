@@ -1,0 +1,5 @@
+you need to uncomment "extension=mysqli" and "extension=pdo_mysql" in /etc/php/php.ini
+
+If running arch, install php (sudo pacman -S php)
+
+The docker container runs the mysql server for us
