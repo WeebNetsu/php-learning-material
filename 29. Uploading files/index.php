@@ -16,7 +16,7 @@
     </form>
 
     <?php
-    if ($_GET["uploaded"]) {
+    if ($_GET["uploaded"]) { // get uploaded status from the url
         echo "File successfully uploaded";
     }
     ?>

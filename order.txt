@@ -2,7 +2,7 @@ Setting up and running PHP (Windows/Mac/Linux) + 1. Hello World
 2. Echo + 3. Comments
 4. Variables and Data Types
 12. Type Casting
-5. Math + 37. Formatting numbers
+5. Math + 14. Formatting numbers
 18. Strings Basics
 16. String Manipulation
 27. String Formatting
@@ -11,7 +11,7 @@ Setting up and running PHP (Windows/Mac/Linux) + 1. Hello World
 7. Arrays
 9. Loops [if statement]
 11. Functions [math]
-36. Variable Scopes [functions]
+25. Variable Scopes [functions]
 19. Error Handling [functions]
 23. Writing to a file + 24. Read from a file + 8. Deleting Files from Folders [functions, loops]
 31. die() and exit() [working with files]
@@ -19,6 +19,7 @@ Setting up and running PHP (Windows/Mac/Linux) + 1. Hello World
 10. Include & Require
 21. Getting user input [for loops]
 29. Uploading files [if statements, arrays, GET & POST, user input]
-15. Sessions + 32. Unset and Destroy Sessions + 14. Holding Sessions
-20. Cookies + 25. Sessions and Cookies
+15. Sessions
+20. Cookies
+32. Encryption Methods
 33. Connecting to a MySQL database + 34. Getting data from database + 22. Protect Database from SQL injections + 30. Prepared Statements [loops, if statements, require]
