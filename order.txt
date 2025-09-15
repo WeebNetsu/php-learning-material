@@ -1,6 +1,6 @@
-Setting up and running PHP (Windows/Mac/Linux) + 1. Hello World
-2. Echo + 3. Comments
-4. Variables and Data Types
+[FILMED] Setting up and running PHP (Windows/Mac/Linux) + 1. Hello World
+[FILMED] 2. Echo + 3. Comments
+[FILMED] 4. Variables and Data Types
 12. Type Casting
 5. Math + 14. Formatting numbers
 18. Strings Basics
